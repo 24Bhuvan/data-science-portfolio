@@ -16,7 +16,3 @@ To demonstrate strong skills in:
 * Deep learning
 * System design
 * Production deployment
-
-## Contact
-
-Add your LinkedIn / GitHub / Email here
